@@ -1,1 +1,3 @@
 # sdet
+#Palindrome Validator 
+Typescript
